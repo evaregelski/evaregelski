@@ -1,13 +1,14 @@
-# Pastina Dress Up Game!
+# Pastina Dress Up Game! 
 
 
 This is my first JavaScript project ever! I wanted to make a simple and cute dress up game based on my Shih Tzu, Pastina. I created all of the pixel art myself in the Procreate app on my iPad. 
 
 
-<img width="896" height="807" alt="image" src="https://github.com/user-attachments/assets/1cdf2e89-e9e4-47d1-a5ca-99b22c113112" />
+<img width="896" height="807" alt="image" src="https://github.com/user-attachments/assets/1cdf2e89-e9e4-47d1-a5ca-99b22c113112" /> <br> <br>
 
 
-**Link to project:** https://vermillion-lolly-1c3a20.netlify.app/
+
+**Link to project:** https://vermillion-lolly-1c3a20.netlify.app/ 
 
 
 ## How It's Made:
